@@ -1,4 +1,4 @@
-multithreadingExample
+Multithreading example
 =====================
 
 Simple example of producer consumer problem
